@@ -1,0 +1,33 @@
+.tarjeta{
+    display: flex;
+    margin: auto;
+    width: 66%;
+    height: auto;
+    justify-content: center;
+}
+
+.card{
+    margin-top: 7rem;
+    display: flex;
+    border-color: #f7717f;
+    align-items: center;
+    border-radius: 1rem;
+    
+}
+.item-lista{
+    width: 100%;
+    background-color: antiquewhite;
+    padding: 1rem;
+    border-radius: 0.5rem;
+
+}
+
+
+
+.tarjeta-post{
+    display: flex;
+    margin: auto;
+    width: 66%;
+    height: auto;
+    justify-content: center;
+}

@@ -1,0 +1,33 @@
+*{
+    font-family: 'Asap', sans-serif;
+    background-color: pink;
+}
+
+
+.marca{
+    font-weight:800;
+    font-size: 1.2rem;
+    color:#f7717f;
+    text-decoration: none;
+    padding:0.5rem;
+}
+
+
+.hoja{
+    fill:#16001e;;
+}
+
+.nav-link{
+    font-weight: 700;
+    font-size: 1.2rem;
+    color:#16001e;;
+    text-decoration: none; 
+}
+
+
+.nav-item{
+    font-weight: 800;
+    font-size: 1.2rem;
+    color:#de639a;
+    text-decoration: none; 
+}

@@ -1,0 +1,44 @@
+.tarjeta{
+    display: flex;
+    margin: auto;
+    width: 20%;
+    height: auto;
+    justify-content: center;
+}
+
+.card{
+    margin-top: 7rem;
+    display: flex;
+    width: 33%;
+    align-items: center;
+    border-radius: 1rem;
+    border-style: solid 3rem;
+    border-color: #de639a
+
+}
+
+.card-body{
+    display: flex;
+    justify-content: flex-start;
+    align-content: space-between;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+
+.item-lista{
+    width: 100%;
+    background-color: antiquewhite;
+    padding: 1rem;
+    border-radius: 0.5rem;
+}
+
+
+.tarjeta-post{
+    display: flex;
+    margin: auto;
+    width: 60%;
+    height: auto;
+    justify-content: left;
+}
